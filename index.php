@@ -1,10 +1,12 @@
 <?php
   echo "TEST";
   //phpinfo();
-  echo '<head>
+  echo '<html>
+        <head>
           <a href="graph.html">Visit Graph page</a>
         </head>
         <body>
           TEST GRAPH
-        </body>';
+        </body>
+        </html>';
 ?>
