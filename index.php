@@ -3,5 +3,8 @@
   //phpinfo();
   echo '<head>
           <a href="graph.html">Visit Graph page</a>
-        </head>';
+        </head>
+        <body>
+          TEST GRAPH
+        </body>';
 ?>
